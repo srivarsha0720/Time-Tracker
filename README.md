@@ -90,27 +90,7 @@ https://2wkzldu2bjztc.mocha.app
 - Visual progress bar indicators  
 - Remaining time calculation  
 
----
 
-## 📁 Project Structure
-Time-Tracker/
-│
-├── migrations/              # Database migrations
-├── src/                     # Application source code
-│
-├── index.html               # Root HTML file
-├── package.json             # Project dependencies
-├── vite.config.ts           # Vite configuration
-├── tailwind.config.js       # Tailwind CSS config
-├── postcss.config.js        # PostCSS config
-├── eslint.config.js         # ESLint configuration
-│
-├── tsconfig.json
-├── tsconfig.app.json
-├── tsconfig.node.json
-├── tsconfig.worker.json
-│
-└── README.md
 
 ## ⚙️ Setup & Installation
 
@@ -180,4 +160,7 @@ npm run preview
 <img width="762" height="520" alt="image" src="https://github.com/user-attachments/assets/d8f9ef4f-cfd7-4b9f-a4a9-3f99c74b4c66" />
 
 <img width="827" height="322" alt="image" src="https://github.com/user-attachments/assets/57a7b332-b73e-4e01-999f-8f21b39e80cb" />
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/046ce706-ae24-4f7a-ba89-914be9217923" />
 
