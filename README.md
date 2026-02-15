@@ -1,10 +1,167 @@
-## TimeTracker - Master Your Day
+# ⏳ Time-Tracker – Master Your Time
 
-This app was created using https://getmocha.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+A full-stack Time Tracking and Analytics Dashboard application that helps users track daily activities, analyze productivity, and achieve goals efficiently.
 
-To run the devserver:
-```
+This application allows users to log activities, categorize time usage, visualize analytics (daily, weekly, monthly), set goals, and export reports.
+
+---
+
+## 🚀 Live Demo
+
+🔗 Add deployed link here  
+https://2wkzldu2bjztc.mocha.app
+
+
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
+- TypeScript  
+- Tailwind CSS  
+- Vite  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+
+### 🗄 Database
+- SQLite (Integrated Database)
+
+### 🧰 Tools Used
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
+
+---
+
+## ✨ Features
+
+- ✅ User-friendly dashboard interface  
+- ✅ Live timer for real-time activity tracking  
+- ✅ Manual activity entry  
+- ✅ Category-based time tracking (Work, Study, Sleep, Exercise, etc.)  
+- ✅ Daily time distribution (Pie Chart)  
+- ✅ Weekly analytics dashboard  
+- ✅ Monthly analytics dashboard  
+- ✅ Category comparison charts  
+- ✅ Activity timeline view  
+- ✅ Custom date range comparison  
+- ✅ Goal setting & progress tracking  
+- ✅ Smart daily limit validation (24-hour restriction)  
+- ✅ Export reports as CSV  
+- ✅ Export reports as PDF  
+- ✅ Responsive UI Design  
+
+---
+
+## 📊 Analytics Modules
+
+### 📅 Daily Analytics
+- Total Time Logged  
+- Time Remaining  
+- Activity Breakdown  
+- Pie Chart Distribution  
+- Activity Timeline  
+
+### 📆 Weekly Analytics
+- Weekly Comparison Chart  
+- Category Breakdown by Day  
+- Weekly Summary Cards  
+
+### 🗓 Monthly Analytics
+- Total Minutes Logged  
+- Daily Average  
+- Most Productive Day  
+- Monthly Category Trends  
+- Monthly Summary Cards  
+
+---
+
+## 🎯 Goals & Progress
+
+- Set daily time goals per category  
+- Track completion progress  
+- Visual progress bar indicators  
+- Remaining time calculation  
+
+---
+
+## 📁 Project Structure
+Time-Tracker/
+│
+├── migrations/              # Database migrations
+├── src/                     # Application source code
+│
+├── index.html               # Root HTML file
+├── package.json             # Project dependencies
+├── vite.config.ts           # Vite configuration
+├── tailwind.config.js       # Tailwind CSS config
+├── postcss.config.js        # PostCSS config
+├── eslint.config.js         # ESLint configuration
+│
+├── tsconfig.json
+├── tsconfig.app.json
+├── tsconfig.node.json
+├── tsconfig.worker.json
+│
+└── README.md
+
+## ⚙️ Setup & Installation
+
+Follow the steps below to run the project locally on your system.
+
+### 1️⃣ Clone the Repository
+
+git clone https://github.com/your-username/Time-Tracker.git
+
+cd Time-Tracker
+
+
+### 2️⃣ Install Dependencies
+
+Make sure you have Node.js installed (v18+ recommended).
+
 npm install
+
+
+### 3️⃣ Setup Environment Variables (If Required)
+
+Create a `.env` file in the root directory and add:
+
+PORT=5000
+
+(Modify values if needed based on your configuration)
+
+
+### 4️⃣ Run the Development Server
+
 npm run dev
-```
+
+
+### 5️⃣ Open in Browser
+
+Once the server starts, open:
+
+http://localhost:5173
+
+(or the port shown in your terminal)
+
+
+---
+
+## 🛠 Build for Production
+
+To create a production build:
+
+npm run build
+
+To preview production build:
+
+npm run preview
+
