@@ -98,7 +98,7 @@ Follow the steps below to run the project locally on your system.
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Time-Tracker.git
+git clone https://github.com/srivarsha0720/Time-Tracker.git
 
 cd Time-Tracker
 
