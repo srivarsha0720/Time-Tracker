@@ -165,3 +165,19 @@ To preview production build:
 
 npm run preview
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/db3af3d6-d175-4018-9d6a-1d2592124fcf" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/22825716-8de4-4c6b-975a-054c539532b5" />
+
+<img width="734" height="427" alt="image" src="https://github.com/user-attachments/assets/754726ad-f4eb-4bce-bf9a-89f4a25fca89" />
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0c1c5b10-c142-43e1-b393-f3aba1fe3d64" />
+
+<img width="789" height="887" alt="image" src="https://github.com/user-attachments/assets/865a7dfd-9c8f-4425-9ac3-0102d06660a7" />
+
+
+<img width="762" height="520" alt="image" src="https://github.com/user-attachments/assets/d8f9ef4f-cfd7-4b9f-a4a9-3f99c74b4c66" />
+
+<img width="827" height="322" alt="image" src="https://github.com/user-attachments/assets/57a7b332-b73e-4e01-999f-8f21b39e80cb" />
+
