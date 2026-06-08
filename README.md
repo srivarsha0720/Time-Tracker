@@ -8,7 +8,7 @@ This application allows users to log activities, categorize time usage, visualiz
 
 ## 🚀 Live Demo
 
-🔗 Add deployed link here  
+🔗 Deployed link :  
 https://2wkzldu2bjztc.mocha.app
 
 
